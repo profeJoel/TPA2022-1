@@ -1,0 +1,4 @@
+Hola clase, este es un ejemplo de texto en un archivo
+Esta es otra linea para el ejemplo
+y luego de ejecutar este codigo nos vamos
+ahora si que si...

@@ -28,7 +28,7 @@ public class Album{
     }
 
     public void addAuthor(Artist author){
-        if(!this.author.constains(author))
+        if(!this.author.contains(author))
             this.author.add(author);
     }
 

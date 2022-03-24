@@ -25,7 +25,7 @@ public class Artist{
             return false;
 
         //validamos la clase del objeto entregado
-        if (getclass() != o.getClass())
+        if(getClass() != o.getClass())
             return false;
 
         Artist a = (Artist) o;

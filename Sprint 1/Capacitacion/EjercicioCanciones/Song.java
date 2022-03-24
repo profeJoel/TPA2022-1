@@ -16,6 +16,7 @@ public class Song{
     public Song(String ID, String title){
         this.ID = ID;
         this.title = title;
+        this.author = new ArrayList<Artist>();
     }
 
     public void addAuthor(Artist author){
